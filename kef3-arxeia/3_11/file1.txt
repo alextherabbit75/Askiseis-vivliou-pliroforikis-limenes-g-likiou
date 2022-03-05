@@ -1,0 +1,4 @@
+this is a sample txt file
+to test if the two files
+are the same
+or not
