@@ -1,0 +1,5 @@
+    marios         2
+   andreas         8
+      alex        10
+    kostas        15
+     fotis        40
